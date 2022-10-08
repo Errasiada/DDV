@@ -13,7 +13,7 @@
 
 Gris es un ejemplo de aventura narrativa con un importante elemento visual que cobra un fuerte protagonismo en la relación jugador-entorno. 
 
-Desarrollado por [Devolver Digital](https://www.devolverdigital.com), *Gris* narra la historia de una joven que se pierde en su propio mundo, e invitará al jugador a acompañarla en la búsqueda de respuestas mostrando las distintas etapas que atraviesa la protagonista en las formas y colores de su **vestido** a medida que va evolucionando emocionalmente. 
+> Desarrollado por [Devolver Digital](https://www.devolverdigital.com), *Gris* narra la historia de una joven que se pierde en su propio mundo, e invitará al jugador a acompañarla en la búsqueda de respuestas mostrando las distintas etapas que atraviesa la protagonista en las formas y colores de su **vestido** a medida que va evolucionando emocionalmente. 
 
 Mi primer contacto con el juego fue gracias a conocer la obra artística de [Conrad Roset](https://www.conradroset.com), quien se encargó de todo el aspecto visual que envuelve al juego, y desde luego le otorga una atmósfera muy característica capaz de mimetizar la belleza de los colores cálidos con escenas y entornos sombríos y decadentes.
 
