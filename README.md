@@ -26,7 +26,7 @@ Mi primer contacto con el juego fue gracias a conocer la obra artística de [Con
 📍 A pesar de que el juego no destaca por una mecánica compleja más allá de los estándares de otros juegos de plataformas en 2D, la complejidad simbólica con la que manifiesta realidades sociales como la depresión, ansiedad o la aceptación de la muerte de una forma tan creativa corona a *Gris* por su resonancia frente a una sociedad que ha sido desvinculada silenciosamente de la aceptación y superación de importantes traumas personales.
 
 ### :hibiscus: *Psicología del color en Gris* :hibiscus: 
-#### - Primer contacto
+#### - Primer contacto; el desasosiego.
 
 Se nos presenta un primer comienzo del juego con una escena abundante en color, una atmósfera cálida y reconfortante, con un estilo similar a la acuarela (1) y posteriormente, ese elemento que sostiene la calma de la protagonista se quiebra(2), dejando un espacio vacío e insonoro donde el único resto de color reside en el personaje (3)
 
@@ -44,6 +44,8 @@ Se nos presenta un primer comienzo del juego con una escena abundante en color, 
 ![1_UoFsNY2b1A2cnsY1gex33Q](https://user-images.githubusercontent.com/114673717/194710138-29a10ebc-bb3c-4cae-b070-25666505d66c.png)
 
 Es importante destacar cómo no solo el elemento visual, sino auditivo, con una banda sonora meticulosamente escogida, acompaña en todo momento al jugador en este primer contacto con la historia. Deja muy claras las intenciones del juego al jugador, ya que te invade casi irremediablemente, una oleada de angustia y tristeza, sin motivo aparente, puesto que no conocemos nada de la historia ni de su personaje principal, pero sí se aprecia la transparencia de sus emociones.
+
+#### - Primeras aproximaciones al color; ira.
 
 Ya una vez comenzamos a manejar al jugador, se atraviesa un vasto desierto, con una importante ausencia cromática, en el que progresivamente irá entrando en contacto con un primer color: el **rojo**
 
