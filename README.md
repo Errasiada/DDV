@@ -56,4 +56,3 @@ Ya una vez comenzamos a manejar al jugador, se atraviesa un vasto desierto, con 
 
 ![1_X5_EO5enpHYjXQZqu3LonQ](https://user-images.githubusercontent.com/114673717/194710448-92e3ab8d-d45d-4e4b-b602-ad6cee27db84.png)
 
-(pending...)
