@@ -1,9 +1,9 @@
 ## Noa Dionis Aragón 
 
 
-*Diseño de Videojuegos - DDV*
+*Diseño y Producción de Videojuegos - DDV*
 
-**Porfolio de la asignatura Diseño de Videojuegos**
+**Porfolio**
 
 ### *Aspectos claves en la estética y la psicología del color aplicada a videojuegos.* 
 :blue_heart: [GRIS](https://nomada.studio) de *Nomada Studio*
